@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcl77777
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Javascript, Python and Systme Design by Alex Xu
+- 👀 I’m interested in Data Engineering and System Design.
+- 🌱 I’m currently learning Python and Javascript. 
 - 💞️ I’m looking to collaborate on learning Data Engineering.
 - 📫 How to reach me @Linkedin 
 
