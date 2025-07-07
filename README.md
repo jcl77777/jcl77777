@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcl77777
-- 👀 I’m interested in Data Engineering and System Design.
-- 🌱 I’m currently learning Python and Javascript. 
-- 💞️ I’m looking to collaborate on learning Data Engineering.
+- 👀 I’m interested in Solo developer.
+- 🌱 I’m currently learning iOS development. 
+- 💞️ I’m looking to collaborate on Vibe coding.
 - 📫 How to reach me @Linkedin 
 
 <!---
