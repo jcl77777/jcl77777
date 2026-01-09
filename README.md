@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jcl77777
-- 👀 I’m interested in Solo developer.
-- 🌱 I’m currently learning iOS development. 
-- 💞️ I’m looking to collaborate on Vibe coding.
+- 👀 I’m a iOS Solo developer.
+- 💞️ Context Coding is a thing. 
 - 📫 How to reach me https://nannovalabs.com 
 
 <!---
