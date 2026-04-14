@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcl77777
 - 👀 I’m a iOS Solo developer.
-- 💞️ Context Coding is a thing. 
+- 💞️ Harness Engineering comes next.
 - 📫 How to reach me https://nannovalabs.com 
 
 <!---
